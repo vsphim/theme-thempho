@@ -1,85 +1,28 @@
-<?php //ICB0 81:0 82:eef                                                      ?><?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-JJWdsLNm9EslrH8Zpm===
-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
-GGS0jpw1xleuRwUo7VEud0==
+<div class="pt-4">
+    <div class="flex flex-wrap">
+        <div class="w-full">
+            <span class="uppercase text-gray-200 text-md font-medium border-b border-zinc-800 w-full block pb-2">{{ $top['label'] }}</span>
+            <div class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded">
+                <div class="px-2 py-3 flex-auto">
+                    <div class="tab-content tab-space">
+                        <div>
+                            @foreach ($top['data'] as $key => $movie)
+                            <a href="{{$movie->getUrl()}}" title="{{$movie->name}}" class="grid items-center grid-cols-12 pb-2 over:shadow-xl transform group hover:opacity-80 hover:scale-105 duration-300 gapx-3">
+                                <div class="col-span-2">
+                                    <div class="text-white font-medium text-md hover:shadow-lg">
+                                        <span style="color:#000" class="leading-7 text-xs bg-[#c58560] w-7 h-7 inline-block rounded-full text-center">{{$loop->iteration}}</span>
+                                    </div>
+                                </div>
+                                <div class="col-span-10 ml-1">
+                                    <span class="block text-gray-200 truncate capitalize">{{$movie->name}}</span>
+                                    <span class="text-xs text-gray-400">{{$movie->view_total}} lượt xem</span>
+                                </div>
+                            </a>
+                            @endforeach
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

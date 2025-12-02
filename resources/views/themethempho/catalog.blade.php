@@ -1,63 +1,25 @@
-<?php //ICB0 81:0 82:b94                                                      ?><?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-l9/1FPm==
-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
-hT8=
+@extends('themes::themethempho.layout')
+
+@php
+
+@endphp
+
+@section('content')
+<main class="l-main pb-[calc(var(--slide-bar-bottom-height))+68px] lg:pb-[calc(var(--slide-bar-bottom-height))]">
+    <div class="container-sm">
+        <div class="max-lg:hidden mb-8"><div class="mt-4 flex flex-col justify-center gap-4"><h1 class="typography font-sans-text lg:text-[2.25rem] text-[2rem] leading-12 font-bold lg:leading-[40px] lg:max-w-[calc(1184/1920*100vw)]">{{ $section_name }}</h1></div></div>
+    </div>
+    <section class="l-section empty:hidden my-5 lg:my-10 container-sm">
+        <div>
+            <ul class="grid gap-y-6 gap-x-2 grid-cols-2 md:gap-4 lg:gap-x-4 lg:gap-y-8 lg:grid-cols-5">
+                @foreach ($data as $key => $movie)
+                    @include('themes::themethempho.inc.sections_movies_item')
+                @endforeach
+            </ul>
+        </div>
+        <div class="mt-20">
+            {{ $data->appends(request()->all())->links('themes::themethempho.inc.pagination') }}
+        </div>
+    </section>
+</main>
+@endsection
