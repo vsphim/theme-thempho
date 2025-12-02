@@ -1,0 +1,43 @@
+{
+    "name": "vsphim/theme-thempho",
+    "description": "Vsphim's thempho theme - Modern movie CMS theme",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "theme",
+        "movie",
+        "cms",
+        "vsphim",
+        "thempho"
+    ],
+    "authors": [
+        {
+            "name": "vsphim",
+            "email": "vsphim@vsphim.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^6|^7|^8",
+        "ckfinder/ckfinder-laravel-package": "^3.5",
+        "vsphim/vsphim-core": "^1.0.0",
+        "laravel/socialite": "^5.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vsphim\\ThemeThemPho\\": "src/",
+            "Vsphim\\ThemeThemPho\\Database\\Factories\\": "database/factories/",
+            "Vsphim\\ThemeThemPho\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vsphim\\ThemeThemPho\\ThemeThemPhoServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
